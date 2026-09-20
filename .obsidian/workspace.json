@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1daa656a32579b",
+        "id": "f25d5d0ab8edc12e",
         "type": "tabs",
         "children": [
           {
-            "id": "1ecd46142ae5043f",
+            "id": "866e4bd4797e8563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Friends.S10E15_地道口语学习笔记.md",
+                "file": "06-Output/小红书图文_S01E02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friends.S10E15_地道口语学习笔记"
+              "title": "小红书图文_S01E02"
             }
           }
         ]
@@ -188,12 +188,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ecd46142ae5043f",
+  "active": "866e4bd4797e8563",
   "lastOpenFiles": [
+    "06-Output/小红书图文_S01E01.md",
+    "06-Output/img-S01E02/S01E02-02.png",
+    "06-Output/img-S01E02/S01E02-01.png",
+    "06-Output/小红书图文_S01E02.md",
+    "06-Output/img-S01E02/S01E02-18.png",
+    "06-Output/img-S01E02/S01E02-17.png",
+    "06-Output/img-S01E02/S01E02-16.png",
+    "06-Output/img-S01E02/S01E02-15.png",
+    "06-Output/img-S01E02/S01E02-14.png",
+    "06-Output/img-S01E02/S01E02-13.png",
+    "06-Output/img-S01E02/S01E02-12.png",
+    "06-Output/img-S01E02/S01E02-11.png",
+    "06-Output/img-S01E02",
+    "06-Output/render_s01e02.py",
+    "06-Output/__pycache__/render_s01e01.cpython-312.pyc",
+    "01-Show/Friends/Friends.S01E01_地道口语学习笔记.md",
+    "02-Vocabulary/Friends-S01-高频词汇.md",
+    "06-Output/make_montage.py",
+    "06-Output/img-S01E01",
+    "06-Output/__pycache__/xhs_pages.cpython-312.pyc",
+    "06-Output/__pycache__/xhs_engine.cpython-312.pyc",
+    "06-Output/__pycache__",
+    "06-Output/render_s01e01.py",
+    "06-Output/xhs_pages.py",
+    "01-Show/Friends/Friends.S01E02_地道口语学习笔记.md",
+    "01-Show/Friends/Friends.S01E03_地道口语学习笔记.md",
+    "01-Show/Friends/Friends.S01E04_地道口语学习笔记.md",
+    "02-Vocabulary/Friends-S02-高频词汇.md",
+    "04-Phrases/Friends-S04-Phrase-Bank.md",
+    "04-Phrases/Friends-S03-Phrase-Bank.md",
+    "04-Phrases/Friends-S02-Phrase-Bank.md",
+    "04-Phrases/Friends-S01-Phrase-Bank.md",
     "Friends.S10E16_地道口语学习笔记.md",
     "Friends.S10E17_地道口语学习笔记.md",
-    "Friends.S01E01_地道口语表达_黄色高亮.pdf",
-    "01-Show/Friends/Friends.S01E01_地道口语学习笔记.md",
     "Friends.S03E01_地道口语学习笔记.md",
     "Friends.S10E05_地道口语学习笔记.md",
     "Friends.S09E05_地道口语学习笔记.md",
@@ -204,27 +234,6 @@
     "Friends.S06E05_地道口语学习笔记.md",
     "Friends.S06E11_地道口语学习笔记.md",
     "Friends.S06E04_地道口语学习笔记.md",
-    "Friends.S06E18_地道口语学习笔记.md",
-    "Friends.S06E10_地道口语学习笔记.md",
-    "Friends.S06E25_地道口语学习笔记.md",
-    "Friends.S06E09_地道口语学习笔记.md",
-    "Friends.S06E03_地道口语学习笔记.md",
-    "Friends.S06E24_地道口语学习笔记.md",
-    "Friends.S06E17_地道口语学习笔记.md",
-    "Friends.S06E16_地道口语学习笔记.md",
-    "Friends.S06E02_地道口语学习笔记.md",
-    "Friends.S06E08_地道口语学习笔记.md",
-    "Friends.S06E15_地道口语学习笔记.md",
-    "Friends.S06E23_地道口语学习笔记.md",
-    "Friends.S06E07_地道口语学习笔记.md",
-    "sedfcgggF",
-    "sedcuhEHl",
-    "sedlzTm1W",
-    "sedqhHHxq",
-    "sedz5E9nM",
-    "sedjmQvGd",
-    "sedN0Z2iH",
-    "sed19nY6b",
-    "sedSugUdG"
+    "Friends.S06E18_地道口语学习笔记.md"
   ]
 }
