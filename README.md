@@ -102,3 +102,11 @@ Rednotes-English/
 - 地道表达统一用 `==高亮==` 标记
 - 新增集数笔记参考 `_templates/剧集学习笔记模板.md`
 - 每季专题提炼完成后，在 `99-MOC/Friends-Index.md` 记录进度
+
+---
+
+## 📄 许可证
+
+本仓库的**原创内容**（笔记、分析、分类、翻译与讲解）采用 [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可：可自由分享与改编，但须**署名、非商业使用、相同方式共享**。详见 [LICENSE](LICENSE)。
+
+> 其中引用的《老友记（Friends）》台词片段仅用于教育与语言学习目的，相关版权归原权利人所有。
